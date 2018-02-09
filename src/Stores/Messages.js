@@ -16,7 +16,7 @@ class MessagesStore extends ReduceStore {
           message: '안녕하세요',
         },
       ],
-      numberOfMessages: 1,
+      numberOfMessages: 2,
       isOnMessagesView: false,
     }
   }
